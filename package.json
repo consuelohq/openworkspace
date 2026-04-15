@@ -1,0 +1,7 @@
+{
+  "name": "openworkspace",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "latest"
+  }
+}
